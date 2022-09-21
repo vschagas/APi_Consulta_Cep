@@ -1,50 +1,78 @@
-<h1 align="center">React-Star-Rating 📬</h1>
+<h1 align="center">Api_Consulta_Cep 📬</h1>
 
-This is a simple project where you can find some brazilian address by zip-code
+![Preview Projeto](./src/image.png)
 
+<!-- ## Acesse o projeto clicando <a href="https://lauropera.github.io/dont-trumps/">AQUI</a>-->
 
-<p align="center">
-    <img
-        src="image.png" 
-        alt="React-Star-Rating"
-    />
-</p>
-## Available Scripts
+<br />
 
-In the project directory, you can run:
+## 📡 Desenvolvimento
 
-### `npm start`
+Este é um projeto simples onde pode localizar um endereço inderinso o cep da localidade.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ Tecnologias
 
-### `npm test`
+* HTML
+* CSS
+* JavaScript
+* React.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `npm run build`
+## 📚 Documentação
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <details>
+    <summary>Instalação e execução</summary>
+    <br />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Faça o fork do repositório:
+  Tutorial [AQUI](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio)
+- Abra seu terminal e navegue até a pasta onde preferir alocar o projeto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Clone o repositório:
 
-### `npm run eject`
+  ```sh
+    git clone git@github.com:"SeuNomeNoGitHub"/APi_Consulta_Cep.git
+  ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Apos ter o repositório clonado em sua maquina, execute este comando para acessar a parta do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ```sh
+    cd APi_Consulta_Cep
+  ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  Caso utilize o npm:
 
-## Learn More
+  ```sh
+    npm install
+  ```
 
+  Caso utilize o yarn:
+
+  ```sh
+    yarn install
+  ```
+
+- Dentro da pasta do projeto, execute o comando abaixo para iniciar o servidor do projeto:
+
+      Caso utilize o npm:
+
+      ```sh
+        npm start
+      ```
+
+      Caso utilize o yarn:
+
+      ```sh
+        yarn start
+      ```
+
+  O aplicativo sera executado em modo de desenvolvimento.
+  Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navegador.
+
+    </details>
+  <br />
