@@ -8,7 +8,7 @@
 
 ## 📡 Desenvolvimento
 
-Este é um projeto simples onde pode localizar um endereço inderinso o cep da localidade.
+Este é um projeto simples onde é possível localizar um endereço inserindo o cep da localidade.
 
 <br />
 
