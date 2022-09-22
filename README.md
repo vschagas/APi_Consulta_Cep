@@ -1,6 +1,6 @@
-<h1 align="center">Api_Consulta_Cep 📬</h1>
+<h1 align="center">Api_Consulta_Cep  📬</h1>
 
-![Preview Projeto](./src/image.png)
+![Preview Projeto](./src/cep.gif)
 
 <!-- ## Acesse o projeto clicando <a href="https://lauropera.github.io/dont-trumps/">AQUI</a>-->
 
@@ -76,3 +76,16 @@ Este é um projeto simples onde é possível localizar um endereço inserindo o 
 
     </details>
   <br />
+
+<!-- # :iphone: Mobile
+
+![Mobile Screenshot](./imgs/Mobile-Preview.png)
+
+<br /> -->
+
+# :camera: Screenshots
+
+![PC Screenshot](./src/image.png)
+
+<br />
+
